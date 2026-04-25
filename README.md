@@ -1,4 +1,4 @@
-## Hey! I'm Andre! 👋
+# Hey! I'm Andre! 👋
 
 <!--
 **andrebouvier/andrebouvier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,11 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#A little about me
 Computer Engineering graduated from San Francisco State University with a passion to create tools or solve real-world problems.
 
 At MICLab (One of SF State's engineering research labs), I developed AI chat web applications that help enable students to use LLM's in their classes more effectively, as well as another platform that helps Neurodiverse students. Both platforms are being used in further research at the University!
 
-#Current Projects
+I'm actively seeking new software engineering opportunities and always open to collaborating on projects!
+
+## Current Projects
 **CounterCV** - Electron Desktop App meant to count cards for live-dealer online blackjack games. Utilizes OpenCV and YOLO
+
 **Movidl** - Web game similar to HigherLowerGame but with movie ratings
